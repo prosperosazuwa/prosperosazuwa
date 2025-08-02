@@ -3,12 +3,6 @@
 <!--
 **prosperosazuwa/prosperosazuwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I’m currently learning programming and how to build websites
-
-* 🌍  Based in Italy 
-* 🧠  I am currently learning basic Git and GitHub
-* 🤝  I'm open to learning new tech skills
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -20,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m currently learning programming and how to build websites
+
+* 🌍  Based in Italy 
+* 🧠  I am currently learning basic Git and GitHub
+* 🤝  I'm open to learning new tech skills
